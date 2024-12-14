@@ -1,3 +1,5 @@
 .venv
 .env
 *.wav
+node_modules
+.history

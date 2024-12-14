@@ -1,0 +1,16 @@
+{
+  "name": "webrtc-python",
+  "version": "1.0.0",
+  "description": "webrtc演示项目，服务端为srs开放的webrtc服务\r ## 安装：\r 环境：python 3.10  \r ```bash\r pip install -r requirements.txt\r ```\r ## 使用\r python webrtc_client.py",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start":"node index.js"
+  },
+  "author": "zcode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
